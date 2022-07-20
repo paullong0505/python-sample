@@ -1,0 +1,12 @@
+
+.nav a{
+    font-size: 20px;
+    margin:0.6rem;
+    padding-left: 0.2rem;
+    padding-right: 0.4rem;
+    line-height: 100px;
+    color:aliceblue
+}
+.nav div>a.active,a:hover{
+    color:rgb(255, 200, 0)
+}
